@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Mattew98
-- 👀 I’m interested in Robotics / Mechatronics
-- 🌱 I’m currently learning C and Arduinos
-- 💞️ I’m looking to collaborate on anything relevant to robotics
+- @Mattew98
+- I’m interested in Robotics / Mechatronics
+- I’m currently learning C and Arduinos
+- I’m looking to collaborate on anything relevant to robotics
+- Self-taught
 
 - https://open.spotify.com/user/7x9hgrxrayczekv9psget9kfu?si=88f2cce1a3044ca2
 
